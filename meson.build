@@ -27,7 +27,7 @@ project(
   default_options : [
     'buildtype=debugoptimized',
     'b_ndebug=if-release',
-    'c_std=c11',
+    'c_std=c17',
     'cpp_std=c++17',
     'rust_std=2021',
     'build.rust_std=2021',
